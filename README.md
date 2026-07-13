@@ -15,7 +15,7 @@ A self-project breaking down how venture capital firms structure investments, ma
 
 ## Format
 
-Originally prepared as a PDF report (`VC_Entry_Exit_Strategy.pdf`), included here for reference.
+Originally prepared as a PDF report (`VC BYJU's.pdf`), included here for reference.
 
 ## Author
 
